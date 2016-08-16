@@ -1,13 +1,21 @@
+EM edge detection (emed)
+
 You will need MATLAB runtime or full MATLAB installed. MATLAB runtime can be downloaded for free: 
 http://uk.mathworks.com/supportfiles/downloads/R2016a/deployment_files/R2016a/installers/glnxa64/MCR_R2016a_glnxa64_installer.zip
 
-MATLAB runtime/full MATLAB has to be R2016a. Newer verions may also work but I haven't tested because they haven't been released yet.
+MATLAB runtime/full MATLAB has to be R2016a. 
+Newer verions may also work but I haven't tested yet.
 
 To use the programme in linux:
 
-1) cd into where the emed programme is stored:
+1) Download all files, including, 'archive.zip', 'archive.z01', and 'archive.z02'.
 
-2) ./run_emed.sh /raid/7/software/matlab/R2016a
-The second part of the command is where the main MATLAB is installed on the STRUBI servers. Change it to where your MATLAB/MATLAB runtime is.
+2) Unzip 'archive.zip' so you have the 'emed' file in the same directory as 'run_emed.sh'. 
 
-3) You will see on-screen message about how to proceed.
+3) cd into where the emed programme is stored:
+
+4) ./run_emed.sh /raid/7/software/matlab/R2016a
+The second part of the command is where the main MATLAB is installed on the STRUBI servers. 
+Change it to where your MATLAB/MATLAB runtime is.
+
+5) You will see on-screen message about how to proceed.

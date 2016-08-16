@@ -6,6 +6,8 @@ http://uk.mathworks.com/supportfiles/downloads/R2016a/deployment_files/R2016a/in
 MATLAB runtime/full MATLAB has to be R2016a. 
 Newer verions may also work but I haven't tested yet.
 
+Please contact the author if you want a Windows or Mac version.
+
 To use the programme in linux:
 
 1) Download all files, including, 'archive.zip', 'archive.z01', and 'archive.z02'.
@@ -16,6 +18,6 @@ To use the programme in linux:
 
 4) ./run_emed.sh /raid/7/software/matlab/R2016a
 The second part of the command is where the main MATLAB is installed on the STRUBI servers. 
-Change it to where your MATLAB/MATLAB runtime is.
+Change it to where your MATLAB is.
 
 5) You will see on-screen message about how to proceed.

@@ -12,7 +12,7 @@ To use the programme in linux:
 
 1) Download all files, including, 'emed_2.zip', 'emed_2.z01', and 'emed_2.z02'.
 
-2) Unzip 'emed_2.zip' so you have the 'emed' file in the same directory as 'run_emed.sh'. 
+2) Unzip 'emed_2.zip' so you have the 'emed_2' file in the same directory as 'run_emed_2.sh'. 
 
 3) cd into where the emed programme is stored:
 

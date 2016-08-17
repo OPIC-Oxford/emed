@@ -10,13 +10,13 @@ Please contact the author if you want a Windows or Mac version.
 
 To use the programme in linux:
 
-1) Download all files, including, 'archive.zip', 'archive.z01', and 'archive.z02'.
+1) Download all files, including, 'emed_2.zip', 'emed_2.z01', and 'emed_2.z02'.
 
-2) Unzip 'archive.zip' so you have the 'emed' file in the same directory as 'run_emed.sh'. 
+2) Unzip 'emed_2.zip' so you have the 'emed' file in the same directory as 'run_emed.sh'. 
 
 3) cd into where the emed programme is stored:
 
-4) ./run_emed.sh /raid/7/software/matlab/R2016a
+4) ./run_emed_2.sh /raid/7/software/matlab/R2016a
 The second part of the command is where the main MATLAB is installed on the STRUBI servers. 
 Change it to where your MATLAB is.
 
